@@ -12,9 +12,9 @@ Transfer Learning of VGG19 trained using ImageNet an retrained for Cifar-10 Data
 ## Usage
 ### Download code:
 ```sh
-git clone https://github.com/eugenelet/PyTorch-Transfer-Learning-of-VGG19-for-Cifar-10-Dataset
+git clone https://github.com/eugenelet/Keras-Transfer-Learning-of-VGG19-on-Cifar-10-Dataset
 
-cd tensorflow-cifar-10-NiN
+cd Keras-Transfer-Learning-of-VGG19-on-Cifar-10-Dataset
 ```
 
 ### Train cnn:
